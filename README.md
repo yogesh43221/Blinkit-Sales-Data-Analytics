@@ -1,7 +1,6 @@
 # Blinkit Sales Forecasting and Interactive Dashboard Project
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7DF1E?style=for-the-badge&logo=google&logoColor=black)
 
 ## Project Overview
 This project leverages Python, Power BI, and machine learning to forecast sales trends from Blinkit sales data. It includes:
