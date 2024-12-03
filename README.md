@@ -35,8 +35,8 @@ This project involves analyzing BlinkIT grocery data to forecast sales trends an
 ### Dashboard Preview
 ![Dashboard Screenshot](https://github.com/yogesh43221/Blinkit-Sales-Data-Analytics/blob/main/image.png)
 
-### Example Forecast Chart
-![Forecast Chart](https://your-image-link.com/forecast-chart.png)
+### Forecast Chart
+![Forecast Chart](https://github.com/yogesh43221/Blinkit-Sales-Data-Analytics/blob/main/sales_forecast.png)
 
 ## Key Features
 - **Data Cleaning**: Standardized `Item Fat Content` values and removed nulls.
